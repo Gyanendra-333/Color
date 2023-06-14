@@ -28,4 +28,4 @@ const SingleColor = ({ rgb, weight, index, hexColor }) => {
   )
 }
 
-export default SingleColor
+export default SingleColor;
